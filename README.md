@@ -1,7 +1,5 @@
 # Dataspot Autorun
 
-🛰️ Aplikacija koja se automatski pokreće prilikom svakog paljenja Windows računala i otvara zadani URL u Microsoft Edge pregledniku.
-
 ---
 
 ## 🇭🇷 Upute (Croatian)
@@ -13,7 +11,6 @@
   `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
 - Otvara URL: [https://submarine.dataspot.ltd](https://submarine.dataspot.ltd)
 - Ne zahtijeva administratorska prava
-- Radi neprimjetno u pozadini
 
 ### 🖥️ Instalacija
 
@@ -46,7 +43,6 @@
   `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
 - Automatically opens: [https://submarine.dataspot.ltd](https://submarine.dataspot.ltd)
 - No admin rights required
-- Runs silently in the background
 
 ### 🖥️ Installation
 

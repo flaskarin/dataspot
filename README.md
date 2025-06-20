@@ -1,4 +1,4 @@
-# DATASPOT AUTORUN
+# Dataspot Autorun
 
 🛰️ Aplikacija koja se automatski pokreće prilikom svakog paljenja Windows računala i otvara zadani URL u Microsoft Edge pregledniku.
 

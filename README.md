@@ -17,7 +17,7 @@
 
 ### 🖥️ Instalacija
 
-1. Preuzmi `.exe` iz [Releases](/(https://github.com/flaskarin/dataspot/releases)).
+1. Preuzmi `.exe` iz [Releases]((https://github.com/flaskarin/dataspot/releases)).
 2. Pokreni `.exe` (admin pristup nije potreban).
 3. Aplikacija se automatski kopira u `Appdata\Roaming\dataspot_autorun` i nakon prvog pokretanja se može izbrisati originalna kopija, ali NE KOPIRANA.
 4. Svakim novim paljenjem računala, otvara zadani URL u Edgeu.

@@ -17,7 +17,7 @@
 
 ### 🖥️ Instalacija
 
-1. Preuzmi `.exe` iz [![Download Release](https://img.shields.io/github/v/release/flaskarin/dataspot?label=Download%20Release&style=for-the-badge)](https://github.com/flaskarin/dataspot/releases).
+1. Preuzmi `.exe` iz [Go to the latest release](https://github.com/flaskarin/dataspot/releases).
 2. Pokreni `.exe` (admin pristup nije potreban).
 3. Aplikacija se automatski kopira u `Appdata\Roaming\dataspot_autorun` i nakon prvog pokretanja se može izbrisati originalna kopija, ali NE KOPIRANA.
 4. Svakim novim paljenjem računala, otvara zadani URL u Edgeu.
@@ -50,7 +50,7 @@
 
 ### 🖥️ Installation
 
-1. Download the `.exe` from the [![Download Release](https://img.shields.io/github/v/release/flaskarin/dataspot?label=Download%20Release&style=for-the-badge)](https://github.com/flaskarin/dataspot/releases) page.
+1. Download the `.exe` from the [Go to the latest release](https://github.com/flaskarin/dataspot/releases) page.
 2. Run the `.exe` (no admin prompt).
 3. The app copies itself into `Appdata\Roaming\dataspot_autorun`and runs automatically, after the first execution of the app the original `.exe` can be deleted.
 4. On every reboot, it will open the target URL in Microsoft Edge.

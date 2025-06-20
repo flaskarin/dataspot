@@ -70,4 +70,4 @@
 
 ---
 
-© 2025 dataspot_autorun
+© 2025 dataspot

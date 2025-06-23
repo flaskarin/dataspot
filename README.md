@@ -6,31 +6,28 @@
 
 ### 🔧 Što radi
 
-- Kopira se u `Appdata\Roaming\dataspot_autorun`
+- Instalira se u `Appdata\Roaming\dataspot_autorun`
 - Dodaje se u Registry:  
   `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
-- Otvara URL: [https://submarine.dataspot.ltd](https://submarine.dataspot.ltd)
+- Otvara određeni URL pri bootu:
+- Ima ugrađene funkcije za Install i Uninstall
 - Ne zahtijeva administratorska prava
 
 ### 🖥️ Instalacija
 
-1. Preuzmi `.exe` iz [Releases](https://github.com/flaskarin/dataspot/releases).
-2. Pokreni `.exe` (admin pristup nije potreban).
-3. Aplikacija se automatski kopira u `Appdata\Roaming\dataspot_autorun` i nakon prvog pokretanja se može izbrisati originalna kopija, ali NE KOPIRANA.
+1. Preuzmite `.exe` iz [Releases](https://github.com/flaskarin/dataspot/releases).
+2. Pokrenite `.exe` (admin pristup nije potreban).
+3. Aplikacija se instalira u `Appdata\Roaming\dataspot_autorun` i automatski pokreće na bootu i pri instaliranju.
 4. Svakim novim paljenjem računala, otvara zadani URL u Edgeu.
 
 ### 🧪 Testirano na
 
 - ✅ Windows 10
 - ✅ Windows 11
-- ✅ Microsoft Edge (zadani preglednik)
 
 ### 🧼 Uklanjanje
 
-- Obriši folder `Appdata\Roaming\dataspot_autorun`
-- Ili ukloni unos iz Registry-ja preko `regedit`:
-  
-  HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+- Ponovno pokrenite Setup i kliknite `Deinstaliraj`
 
 ---
 
@@ -38,30 +35,27 @@
 
 ### 🔧 What it does
 
-- Copies itself to:  `Appdata\Roaming\dataspot_autorun`
+- Installs to:  `Appdata\Roaming\dataspot_autorun`
 - Adds itself to Registry startup:  
   `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run`
-- Automatically opens: [https://submarine.dataspot.ltd](https://submarine.dataspot.ltd)
+- Automatically opens the defined URL
+- Has built in Install and Uninstall features
 - No admin rights required
 
 ### 🖥️ Installation
 
 1. Download the `.exe` from the [Releases](https://github.com/flaskarin/dataspot/releases) page.
 2. Run the `.exe` (no admin prompt).
-3. The app copies itself into `Appdata\Roaming\dataspot_autorun`and runs automatically, after the first execution of the app the original `.exe` can be deleted.
+3. The app copies itself into `Appdata\Roaming\dataspot_autorun`and runs automatically on install and boot.
 4. On every reboot, it will open the target URL in Microsoft Edge.
 
 ### 🧪 Tested on
 
 - ✅ Windows 10
 - ✅ Windows 11
-- ✅ Microsoft Edge (preinstalled)
 
 ### 🧼 Removal
 
-- Delete the folder:  `Appdata\Roaming\dataspot_autorun`
-- Or remove the registry entry via `regedit`:
-  
-  HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run
+- Run the Setup and click `Deinstaliraj`
 
 ---

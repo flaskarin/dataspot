@@ -25,7 +25,7 @@
 - ✅ Windows 10
 - ✅ Windows 11
 
-### 🧼 Uklanjanje
+### 🗑️ Uklanjanje
 
 - Ponovno pokrenite Setup i kliknite `Deinstaliraj`
 
@@ -54,7 +54,7 @@
 - ✅ Windows 10
 - ✅ Windows 11
 
-### 🧼 Removal
+### 🗑️ Removal
 
 - Run the Setup and click `Deinstaliraj`
 
